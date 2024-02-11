@@ -7,14 +7,21 @@
 body{
     background-color: #F0F3FF;
 }
+
+.card{
+    background-color: #E1F0DA;
+    padding: 40px;
+    border-radius: 20px;
+}
 h1{
     text-align: center;
     margin-top: 100px;
-    font-size: large;
+    font-size: 46px;
     font-weight: 700;
 }
 h2{
     margin-bottom: 20px;
+    font-size: 26px;
 }
 
 .container{
@@ -53,7 +60,7 @@ h2{
     border-radius: 15px;
 }
 
-.reset-btn{
+#reset-btn{
     display: flex;
     justify-content: center;
 }
